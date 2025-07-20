@@ -1,8 +1,12 @@
 # Hi 👋 I'm Meaghan Ramlakhan
 
 <p align="center">
-  <img src="https://github.com/meaghanramlakhan8/meaghanramlakhan8/blob/main/DSC_2055.JPG?raw=true" alt="Meaghan Ramlakhan" width="150"/>
+  <img src="https://github.com/meaghanramlakhan8/meaghanramlakhan8/blob/main/DSC_2055.JPG?raw=true" 
+       alt="Meaghan Ramlakhan" 
+       width="150" 
+       style="border-radius: 50%; object-fit: cover;"/>
 </p>
+
 
 ---
 
