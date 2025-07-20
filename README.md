@@ -1,7 +1,7 @@
 # Hi 👋 I'm Meaghan Ramlakhan
 
 <p align="center">
-  <img src="meaghanramlakhan8.png" width="150" alt="Profile Picture"/>
+  <img src="DSC_2055.jpg" width="150" alt="Profile Picture"/>
 </p>
 
 ---
