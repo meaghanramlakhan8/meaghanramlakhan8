@@ -1,24 +1,8 @@
 # Hi 👋 I'm Meaghan Ramlakhan
-
-<p align="center">
-  <svg width="150" height="150">
-    <defs>
-      <clipPath id="circleView">
-        <circle cx="75" cy="75" r="75" />
-      </clipPath>
-    </defs>
-    <image href="https://github.com/meaghanramlakhan8/meaghanramlakhan8/blob/main/DSC_2055.JPG?raw=true" 
-           width="150" 
-           height="150" 
-           clip-path="url(#circleView)" />
-  </svg>
-</p>
-
-
 ---
 
 ## ✨ About Me:
-I'm a rising senior student at Rice University studying Computer Science with minors in Data Science and Statistics. I'm passionate about using technology to drive innovation in health, education, and accessibility. I love building tools that help people, from web platforms to neural networks.
+I'm a senior at Rice University majoring in Computer Science with minors in Data Science and Statistics. I’m passionate about leveraging technology to improve healthcare, education, and accessibility. My work spans from developing full-stack web applications to building machine learning models for impactful, real-world problems.
 
 ---
 
